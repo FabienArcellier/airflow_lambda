@@ -1,0 +1,8 @@
+/*.egg-info
+.idea
+dist
+venv
+venv3
+.coverage
+**.pyc
+MANIFEST
