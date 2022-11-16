@@ -10,7 +10,7 @@ setup(
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     long_description=open('README.md').read(),
     install_requires = [
-      'apache-airflow==1.8.2',
+      'apache-airflow==2.4.2',
       'boto3'
     ]
 )
